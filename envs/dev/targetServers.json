@@ -1,13 +1,13 @@
 [
     {
-        "name": "Enterprisetarget",
-        "host": "example.com",
+        "name": "airport-cicd-v1-dev",
+        "host": "developer.example.com",
         "isEnabled": true,
         "port": 8080
     },
     {
-        "name": "ESBTarget",
-        "host": "enterprise.com",
+        "name": "airport-cicd-v1-dev",
+        "host": "developer.example.com",
         "isEnabled": true,
         "port": 8080,
         "sSLInfo": {
