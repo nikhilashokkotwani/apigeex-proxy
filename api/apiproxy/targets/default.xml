@@ -13,7 +13,7 @@
     <Flows/>
     <HTTPTargetConnection>
         <LoadBalancer>
-            <Server name="HTTPBin"/>
+            <Server name="airport-cicd-v1-dev"/>
         </LoadBalancer>
         <Path>/get</Path>
     </HTTPTargetConnection>
